@@ -1,0 +1,6 @@
+# Ignore all files in this directory
+# We just have it in the repository for convenience as the README.md refers to it
+*
+
+# Though, we want to include the .gitignore file itself
+!.gitignore
