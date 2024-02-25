@@ -1,0 +1,2 @@
+# Ignore any .deb files in the root directory as they are most likely the downloaded driver files
+*.deb
