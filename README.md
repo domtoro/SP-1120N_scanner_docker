@@ -24,7 +24,7 @@ The image leverages the [SANE Command-Line Scan to PDF](https://github.com/rocke
 Directly passing parameters to the container bypasses the default profile, necessitating manual input of all necessary parameters!
 
 ### Examples
-The examples assume that they are being execute from the root of this repository.
+The examples assume that they are being executed from the root of this repository.
 
 - **Using Default Settings:**
 
